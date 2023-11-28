@@ -3,7 +3,7 @@ class Product {
     //connection
     private $conn;
     //Table
-    private $db_table = "Products";
+    private $db_table = "products";
 
     //Columns
     public $id;
